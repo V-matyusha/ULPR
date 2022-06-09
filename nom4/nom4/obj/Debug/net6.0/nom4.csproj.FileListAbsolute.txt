@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\nom4\nom4\bin\Debug\net6.0\nom4.exe
+C:\Users\admin\source\repos\nom4\nom4\bin\Debug\net6.0\nom4.deps.json
+C:\Users\admin\source\repos\nom4\nom4\bin\Debug\net6.0\nom4.runtimeconfig.json
+C:\Users\admin\source\repos\nom4\nom4\bin\Debug\net6.0\nom4.dll
+C:\Users\admin\source\repos\nom4\nom4\bin\Debug\net6.0\ref\nom4.dll
+C:\Users\admin\source\repos\nom4\nom4\bin\Debug\net6.0\nom4.pdb
+C:\Users\admin\source\repos\nom4\nom4\obj\Debug\net6.0\nom4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\nom4\nom4\obj\Debug\net6.0\nom4.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\nom4\nom4\obj\Debug\net6.0\nom4.AssemblyInfo.cs
+C:\Users\admin\source\repos\nom4\nom4\obj\Debug\net6.0\nom4.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\nom4\nom4\obj\Debug\net6.0\nom4.dll
+C:\Users\admin\source\repos\nom4\nom4\obj\Debug\net6.0\ref\nom4.dll
+C:\Users\admin\source\repos\nom4\nom4\obj\Debug\net6.0\nom4.pdb
+C:\Users\admin\source\repos\nom4\nom4\obj\Debug\net6.0\nom4.genruntimeconfig.cache
