@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\nom2\nom2\bin\Debug\net6.0\nom2.exe
+C:\Users\admin\source\repos\nom2\nom2\bin\Debug\net6.0\nom2.deps.json
+C:\Users\admin\source\repos\nom2\nom2\bin\Debug\net6.0\nom2.runtimeconfig.json
+C:\Users\admin\source\repos\nom2\nom2\bin\Debug\net6.0\nom2.dll
+C:\Users\admin\source\repos\nom2\nom2\bin\Debug\net6.0\ref\nom2.dll
+C:\Users\admin\source\repos\nom2\nom2\bin\Debug\net6.0\nom2.pdb
+C:\Users\admin\source\repos\nom2\nom2\obj\Debug\net6.0\nom2.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\nom2\nom2\obj\Debug\net6.0\nom2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\nom2\nom2\obj\Debug\net6.0\nom2.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\nom2\nom2\obj\Debug\net6.0\nom2.AssemblyInfo.cs
+C:\Users\admin\source\repos\nom2\nom2\obj\Debug\net6.0\nom2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\nom2\nom2\obj\Debug\net6.0\nom2.dll
+C:\Users\admin\source\repos\nom2\nom2\obj\Debug\net6.0\ref\nom2.dll
+C:\Users\admin\source\repos\nom2\nom2\obj\Debug\net6.0\nom2.pdb
+C:\Users\admin\source\repos\nom2\nom2\obj\Debug\net6.0\nom2.genruntimeconfig.cache
