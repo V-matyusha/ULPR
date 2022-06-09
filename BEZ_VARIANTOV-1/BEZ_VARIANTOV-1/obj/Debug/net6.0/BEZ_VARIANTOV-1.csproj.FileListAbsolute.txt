@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\BEZ_VARIANTOV-1\BEZ_VARIANTOV-1\bin\Debug\net6.0\BEZ_VARIANTOV-1.exe
+C:\Users\admin\source\repos\BEZ_VARIANTOV-1\BEZ_VARIANTOV-1\bin\Debug\net6.0\BEZ_VARIANTOV-1.deps.json
+C:\Users\admin\source\repos\BEZ_VARIANTOV-1\BEZ_VARIANTOV-1\bin\Debug\net6.0\BEZ_VARIANTOV-1.runtimeconfig.json
+C:\Users\admin\source\repos\BEZ_VARIANTOV-1\BEZ_VARIANTOV-1\bin\Debug\net6.0\BEZ_VARIANTOV-1.dll
+C:\Users\admin\source\repos\BEZ_VARIANTOV-1\BEZ_VARIANTOV-1\bin\Debug\net6.0\ref\BEZ_VARIANTOV-1.dll
+C:\Users\admin\source\repos\BEZ_VARIANTOV-1\BEZ_VARIANTOV-1\bin\Debug\net6.0\BEZ_VARIANTOV-1.pdb
+C:\Users\admin\source\repos\BEZ_VARIANTOV-1\BEZ_VARIANTOV-1\obj\Debug\net6.0\BEZ_VARIANTOV-1.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\BEZ_VARIANTOV-1\BEZ_VARIANTOV-1\obj\Debug\net6.0\BEZ_VARIANTOV-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\BEZ_VARIANTOV-1\BEZ_VARIANTOV-1\obj\Debug\net6.0\BEZ_VARIANTOV-1.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\BEZ_VARIANTOV-1\BEZ_VARIANTOV-1\obj\Debug\net6.0\BEZ_VARIANTOV-1.AssemblyInfo.cs
+C:\Users\admin\source\repos\BEZ_VARIANTOV-1\BEZ_VARIANTOV-1\obj\Debug\net6.0\BEZ_VARIANTOV-1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BEZ_VARIANTOV-1\BEZ_VARIANTOV-1\obj\Debug\net6.0\BEZ_VARIANTOV-1.dll
+C:\Users\admin\source\repos\BEZ_VARIANTOV-1\BEZ_VARIANTOV-1\obj\Debug\net6.0\ref\BEZ_VARIANTOV-1.dll
+C:\Users\admin\source\repos\BEZ_VARIANTOV-1\BEZ_VARIANTOV-1\obj\Debug\net6.0\BEZ_VARIANTOV-1.pdb
+C:\Users\admin\source\repos\BEZ_VARIANTOV-1\BEZ_VARIANTOV-1\obj\Debug\net6.0\BEZ_VARIANTOV-1.genruntimeconfig.cache
