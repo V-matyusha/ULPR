@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ULPR_GITHUB.PRAC4-1", "ULPR_GITHUB.PRAC4-1\ULPR_GITHUB.PRAC4-1.csproj", "{34346D0D-72B9-411C-BBDC-56B2DE982747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34346D0D-72B9-411C-BBDC-56B2DE982747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34346D0D-72B9-411C-BBDC-56B2DE982747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34346D0D-72B9-411C-BBDC-56B2DE982747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34346D0D-72B9-411C-BBDC-56B2DE982747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C376488D-2AD2-4A19-9101-8E038298491A}
+	EndGlobalSection
+EndGlobal
